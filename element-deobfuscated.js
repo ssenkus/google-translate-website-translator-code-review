@@ -105,6 +105,15 @@
 	// some flash
 	c._phf = (window.location.protocol == 'https:' ? 'https://' : 'http://') + 'translate.googleapis.com/translate_static/js/element/hrs.swf';
     c._pli = (window.location.protocol == 'https:' ? 'https://' : 'http://') + 'translate.googleapis.com/translate_static/img/loading.gif';
+	
+	//****************************************
+	// Need to find out why this is included...
+	//****************************************
+	// Browser gets XML error
+	// XML Parsing Error: no element found
+	//   Location: https://translate.googleapis.com/translate_a/l
+	//   Line Number 1, Column 1:
+	//	^
 	c._plla =(window.location.protocol == 'https:' ? 'https://' : 'http://') + 'translate.googleapis.com/translate_a/l';
     c._pmi = (window.location.protocol == 'https:' ? 'https://' : 'http://') + 'translate.googleapis.com/translate_static/img/mini_google.png';
 
