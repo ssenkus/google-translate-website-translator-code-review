@@ -93,8 +93,16 @@
 	
 	
     c._pah = 'translate.googleapis.com';
+	
+	// ASSETS
+	// stored in /assets/ for research purposes only
+	//
+	// a gradient image
     c._pbi = (window.location.protocol == 'https:' ? 'https://' : 'http://') + 'translate.googleapis.com/translate_static/img/te_bk.gif';
+	// CSS sprite image
     c._pci = (window.location.protocol == 'https:' ? 'https://' : 'http://') + 'translate.googleapis.com/translate_static/img/te_ctrl3.gif';
+	
+	// some flash
 	c._phf = (window.location.protocol == 'https:' ? 'https://' : 'http://') + 'translate.googleapis.com/translate_static/js/element/hrs.swf';
     c._pli = (window.location.protocol == 'https:' ? 'https://' : 'http://') + 'translate.googleapis.com/translate_static/img/loading.gif';
 	c._plla =(window.location.protocol == 'https:' ? 'https://' : 'http://') + 'translate.googleapis.com/translate_a/l';
