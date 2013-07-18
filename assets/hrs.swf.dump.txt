@@ -1,0 +1,22 @@
+This Dump contains only first level of the tag tree. If you want to export full Dump, please, obtain one of Flash Decompiler's Business licenses.
+
+Address  Hex length Dec length Data
+00000000     1e30.0     7728.0 SWF
+00000000       15.0       21.0  Header
+00000000        3.0        3.0   File label = "FWS"
+00000003        1.0        1.0   File version = 9
+00000004        4.0        4.0   File length = 7728
+00000008        9.0        9.0   Frame rect
+00000011        2.0        2.0   Frame rate = 24.000000
+00000013        2.0        2.0   Frame count = 1
+00000015     1e1b.0     7707.0  Tags
+00000015        6.0        6.0   FileAttribute = 69
+0000001b      1d1.0      465.0   Metadata = 77
+000001ec        6.0        6.0   ScriptLimits = 65
+000001f2        5.0        5.0   SetBackgroundColor = 9
+000001f7       1c.0       28.0   SerialNumber = 41
+00000213       3b.0       59.0   FrameLabel = 43
+0000024e     1b9f.0     7071.0   DoABCDefine = 82
+00001ded       3f.0       63.0   SymbolClass = 76
+00001e2c        2.0        2.0   ShowFrame = 1
+00001e2e        2.0        2.0   End = 0
